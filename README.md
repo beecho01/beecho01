@@ -29,11 +29,10 @@ Linkedin
 
 <!-- <img width="282" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOC8lzKyje88E6cngS0HEHhyzlsckuOtZQlA&usqp=CAU" > -->
 
-## Current Projects I'm working on 👨‍💻
+## 👨‍💻 Current Projects
 
 <img width="50%" style="border-radius: 24px;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
-## Things I am passionate about
+## 👨‍💻 Past Projects
 
-- Android :robot:
-- Open source :octocat:
+<img width="50%" style="border-radius: 24px;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
