@@ -1,3 +1,7 @@
+<div style="width: 100%;">
+  <img src="wave.svg" style="width: 100%;">
+</div>
+
 ### Hi, I'm James 👋🏻
 
 <img width="282" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOC8lzKyje88E6cngS0HEHhyzlsckuOtZQlA&usqp=CAU" >
