@@ -12,6 +12,7 @@ My name is James and I'm an avid supporter of Open-Source and love to dabble in 
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Fedora/fedora1.svg">
 </div>
 
 ## 🌱 Currently learning
