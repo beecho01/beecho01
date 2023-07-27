@@ -6,39 +6,29 @@
 
 My name is James and I'm an avid supporter of Open-Source and love to dabble in projects such as Open Street Maps, Home Assitant and others. I'm from the UK, currently working at The Barcode Warehouse. I am passionate about Android and hope to learn to code for it and understand it better!
 
-You can find me on the socials below:
-
-Linkedin
-
 ## 🔧 Technologies & Tools
-<div style="width: 100%;">
-  <img src="">
-  <img src="">
-  <img src="">
+<div style="width: 100%;" align="left">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg">
 </div>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
 ## 🌱 Currently learning
-
-<!-- <img width="282" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOC8lzKyje88E6cngS0HEHhyzlsckuOtZQlA&usqp=CAU" > -->
+<div style="width: 100%;" align="left">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kotlin/kotlin1.svg">
+</div>
 
 ## 👨‍💻 Current Projects
-
-<img width="50%" style="border-radius: 24px;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<div align="left">
+  <img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</div>
 
 ## 👨‍💻 Past Projects
+<div align="left">
+  <img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+</div>
 
-<img width="50%" style="border-radius: 24px;" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<!-- <img width="282" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOC8lzKyje88E6cngS0HEHhyzlsckuOtZQlA&usqp=CAU" > -->
