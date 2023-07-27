@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm James 👋🏻
+
+## Things I am passionate about
+
+- Android :robot:
+- Open source :octocat:
 
 <!--
 **beecho01/beecho01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
