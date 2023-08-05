@@ -56,7 +56,7 @@
 <details> 
  <summary><h2>👨‍💻 Current Projects</h2></summary>
   <div align="left">
-    <img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
+    <a href="https://github.com/beecho01/material-symbols"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
   </div>
 </details>
 
@@ -67,7 +67,7 @@
 <details> 
  <summary><h2>👨‍💻 Past Projects</h2></summary>
   <div align="left">
-    <img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=Squirlce-CE-Material-Palenight&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
+    <a href="https://github.com/beecho01/Squirlce-CE-Material-Palenight"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=Squirlce-CE-Material-Palenight&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
   </div>
 </details>
 
