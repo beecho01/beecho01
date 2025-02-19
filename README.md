@@ -64,6 +64,10 @@
   <div align="left">
     <a href="https://github.com/beecho01/umbrel-web-app"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=umbrel-web-app&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
   </div>
+  <div align="left">
+    <a href="https://github.com/beecho01/MinimalADB"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=MinimalADB&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+  </div>
+  
 </details>
 
 <div>
