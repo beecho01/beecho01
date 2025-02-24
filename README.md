@@ -141,3 +141,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" />
 </picture> -->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beecho01&theme=transparent)
