@@ -59,7 +59,7 @@
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <a href="https://github.com/beecho01/material-symbols">
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&show_icons=true&theme=dark"
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&show_icons=true&theme=dark&bg_color=00000000"
                 media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&show_icons=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -68,7 +68,7 @@
     </a>
     <a href="https://github.com/beecho01/material-symbols-iconfinder">
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols-iconfinder&show_icons=true&theme=dark"
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols-iconfinder&show_icons=true&theme=dark&bg_color=00000000"
                 media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols-iconfinder&show_icons=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -77,7 +77,7 @@
     </a>
     <a href="https://github.com/beecho01/umbrel-web-app">
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=umbrel-web-app&show_icons=true&theme=dark"
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=umbrel-web-app&show_icons=true&theme=dark&bg_color=00000000"
                 media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=umbrel-web-app&show_icons=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -86,7 +86,7 @@
     </a>
     <a href="https://github.com/beecho01/MinimalADB">
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=MinimalADB&show_icons=true&theme=dark"
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=MinimalADB&show_icons=true&theme=dark&bg_color=00000000"
                 media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=MinimalADB&show_icons=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -105,7 +105,7 @@
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
     <a href="https://github.com/beecho01/Squirlce-CE-Material-Palenight">
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=Squirlce-CE-Material-Palenight&show_icons=true&theme=dark"
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=Squirlce-CE-Material-Palenight&show_icons=true&theme=dark&bg_color=00000000"
                 media="(prefers-color-scheme: dark)" />
         <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=Squirlce-CE-Material-Palenight&show_icons=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
@@ -120,7 +120,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=beecho01&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=beecho01&show_icons=true&theme=dark&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -132,7 +132,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true&theme=dark&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
