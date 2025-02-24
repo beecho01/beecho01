@@ -83,3 +83,7 @@
 </details>
 
 <!-- <img width="282" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOC8lzKyje88E6cngS0HEHhyzlsckuOtZQlA&usqp=CAU" > -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beecho01)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
