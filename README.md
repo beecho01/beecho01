@@ -56,19 +56,44 @@
 
 <details open> 
  <summary><h2>👨‍💻 Current Projects</h2></summary>
-  <div align="left">
-    <a href="https://github.com/beecho01/material-symbols"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <a href="https://github.com/beecho01/material-symbols">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&show_icons=true&theme=dark"
+                media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols&show_icons=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" alt="Material Symbols"/>
+      </picture>
+    </a>
+    <a href="https://github.com/beecho01/material-symbols-iconfinder">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols-iconfinder&show_icons=true&theme=dark"
+                media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols-iconfinder&show_icons=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" alt="Material Symbols Iconfinder"/>
+      </picture>
+    </a>
+    <a href="https://github.com/beecho01/umbrel-web-app">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=umbrel-web-app&show_icons=true&theme=dark"
+                media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=umbrel-web-app&show_icons=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" alt="Umbrel Web App"/>
+      </picture>
+    </a>
+    <a href="https://github.com/beecho01/MinimalADB">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=MinimalADB&show_icons=true&theme=dark"
+                media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=MinimalADB&show_icons=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" alt="Minimal ADB"/>
+      </picture>
+    </a>
   </div>
-  <div align="left">
-    <a href="https://github.com/beecho01/material-symbols-iconfinder"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=material-symbols-iconfinder&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
-  </div>
-  <div align="left">
-    <a href="https://github.com/beecho01/umbrel-web-app"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=umbrel-web-app&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
-  </div>
-  <div align="left">
-    <a href="https://github.com/beecho01/MinimalADB"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=MinimalADB&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
-  </div>
-  
 </details>
 
 <div>
@@ -76,26 +101,43 @@
 </div>
 
 <details open> 
- <summary><h2>👨‍💻 Past Projects</h2></summary>
-  <div align="left">
-    <a href="https://github.com/beecho01/Squirlce-CE-Material-Palenight"><img width="33%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=Squirlce-CE-Material-Palenight&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+ <summary><h2>📜 Past Projects</h2></summary>
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <a href="https://github.com/beecho01/Squirlce-CE-Material-Palenight">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=Squirlce-CE-Material-Palenight&show_icons=true&theme=dark"
+                media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=Squirlce-CE-Material-Palenight&show_icons=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" alt="Squirlce CE Material Palenight"/>
+      </picture>
+    </a>
   </div>
 </details>
 
-<!-- <img width="282" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOC8lzKyje88E6cngS0HEHhyzlsckuOtZQlA&usqp=CAU" > -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beecho01)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <img width="282" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOC8lzKyje88E6cngS0HEHhyzlsckuOtZQlA&usqp=CAU" >
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=beecho01&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=beecho01&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beecho01&show_icons=true" />
 </picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" />
+</picture> -->
