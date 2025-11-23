@@ -75,22 +75,22 @@
         <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" alt="Material Symbols Iconfinder"/>
       </picture>
     </a>
-    <a href="https://github.com/beecho01/umbrel-web-app">
+    <a href="https://github.com/beecho01/kokoro-tts">
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=umbrel-web-app&show_icons=true&&theme=dark&bg_color=00000000&border_color=FFFFFF1A"
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=kokoro-tts&show_icons=true&&theme=dark&bg_color=00000000&border_color=FFFFFF1A"
                 media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=umbrel-web-app&show_icons=true"
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=kokoro-tts&show_icons=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" alt="Umbrel Web App"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" alt="kokoro-tts"/>
       </picture>
     </a>
-    <a href="https://github.com/beecho01/MinimalADB">
+    <a href="https://github.com/beecho01/fuel-prices-uk">
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=MinimalADB&show_icons=true&&theme=dark&bg_color=00000000&border_color=FFFFFF1A"
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=Fuel-Prices-UK&show_icons=true&&theme=dark&bg_color=00000000&border_color=FFFFFF1A"
                 media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=MinimalADB&show_icons=true"
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=beecho01&repo=Fuel-Prices-UK&show_icons=true"
                 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" alt="Minimal ADB"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=beecho01&show_icons=true" alt="Fuel-Prices-UK"/>
       </picture>
     </a>
   </div>
