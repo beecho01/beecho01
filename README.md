@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-  <img src="wave.svg" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/beecho01/beecho01/2bc23356a3f7d77a0a0772026e2b3fca1316234d/wave.svg" style="width: 100%;">
   <br>
   <br>
   <br>
